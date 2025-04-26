@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+    border: 3px solid midnightblue;
+}
+thead,
+tfoot {
+  background-color: midnightblue;
+  color: white;
+  text-shadow: 1px 1px 1px midnightblue;
+}
+
+thead th,
+tfoot th,
+tfoot td {
+  border: 3px solid midnightblue;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid midnightblue;
+    height: 100px;
+    background-color: midnightblue;
+    color: white;
+}
+tr:hover{
+   background-color: lightblue;
+}

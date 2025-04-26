@@ -1,0 +1,28 @@
+.loginflex{
+    margin-top: 50px;
+    border-radius: 5%;
+    border: 3px solid midnightblue;
+    height: 800px;
+    width: 600px;
+    display: flex;
+    padding: 50px 50px 50px 50px ;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid midnightblue;
+    height: 100px;
+    width: 100%;
+    background-color: midnightblue;
+    color: white;
+}
