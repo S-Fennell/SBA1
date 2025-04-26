@@ -40,3 +40,13 @@ tr:hover{
   display: flex;
   justify-content: center;
 }
+.choose{
+  margin-top: 15px;
+  background-color: gray;
+}
+.rotate{
+  transition: 3s ;
+}
+.rotate:hover{
+  transform: rotate(360deg);
+}
