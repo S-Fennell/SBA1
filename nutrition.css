@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: lightgrey;
 }
 
 .table{
@@ -30,4 +31,12 @@ tfoot td {
 }
 tr:hover{
    background-color: lightblue;
+}
+.centimg{
+  border: 5px solid midnightblue;
+  background-color: midnightblue;
+  padding: 20px ;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }
